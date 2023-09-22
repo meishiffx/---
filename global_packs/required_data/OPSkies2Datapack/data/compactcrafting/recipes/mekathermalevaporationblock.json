@@ -1,0 +1,49 @@
+{
+  "type": "compactcrafting:miniaturization",
+  "layers": [
+    {
+      "type": "compactcrafting:mixed",
+      "pattern": [
+        [ "C", "C", "C" ],
+        [ "C", "C", "C" ],
+        [ "C", "C", "C" ]
+      ]
+    },
+    {
+      "type": "compactcrafting:mixed",
+      "pattern": [
+        [ "C", "C", "C" ],
+        [ "C", "D", "C" ],
+        [ "C", "C", "C" ]
+      ]
+    },
+    {
+      "type": "compactcrafting:mixed",
+      "pattern": [
+        [ "C", "C", "C" ],
+        [ "C", "C", "C" ],
+        [ "C", "C", "C" ]
+      ]
+    }
+  ],
+  "catalyst": {
+      "id": "minecraft:diamond",
+      "Count": 1    
+  },
+  "components": {
+    "C": {
+      "type": "compactcrafting:block",
+      "block": "minecraft:copper_block"
+    },
+    "D": {
+      "type": "compactcrafting:block",
+      "block": "projectexpansion:cyan_fuel_block"
+    }
+  },
+  "outputs": [
+    {
+      "id": "mekanism:thermal_evaporation_block",
+      "Count": 27
+    }
+  ]
+}

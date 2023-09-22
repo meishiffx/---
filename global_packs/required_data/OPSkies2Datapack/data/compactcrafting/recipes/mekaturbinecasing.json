@@ -1,0 +1,49 @@
+{
+  "type": "compactcrafting:miniaturization",
+  "layers": [
+    {
+      "type": "compactcrafting:mixed",
+      "pattern": [
+        [ "C", "C", "C" ],
+        [ "C", "C", "C" ],
+        [ "C", "C", "C" ]
+      ]
+    },
+    {
+      "type": "compactcrafting:mixed",
+      "pattern": [
+        [ "C", "C", "C" ],
+        [ "C", "D", "C" ],
+        [ "C", "C", "C" ]
+      ]
+    },
+    {
+      "type": "compactcrafting:mixed",
+      "pattern": [
+        [ "C", "C", "C" ],
+        [ "C", "C", "C" ],
+        [ "C", "C", "C" ]
+      ]
+    }
+  ],
+  "catalyst": {
+      "id": "minecraft:diamond",
+      "Count": 1    
+  },
+  "components": {
+    "C": {
+      "type": "compactcrafting:block",
+      "block": "thermal:steel_block"
+    },
+    "D": {
+      "type": "compactcrafting:block",
+      "block": "projectexpansion:cyan_fuel_block"
+    }
+  },
+  "outputs": [
+    {
+      "id": "mekanismgenerators:turbine_casing",
+      "Count": 27
+    }
+  ]
+}

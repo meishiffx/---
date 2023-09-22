@@ -1,0 +1,18 @@
+{
+  "type": "pneumaticcraft:pressure_chamber",
+  "inputs": [
+    {
+      "item": "thermal:enderium_ingot"
+    },
+    {
+      "item": "minecraft:ender_eye"
+    }
+  ],
+  "pressure": 2.0,
+  "results": [
+    {
+      "item": "extendedcrafting:ender_ingot",
+      "count": 4
+    }
+  ]
+}

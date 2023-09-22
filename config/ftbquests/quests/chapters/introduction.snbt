@@ -1,0 +1,203 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "introduction"
+	group: ""
+	icon: "botania:cosmetic_questgiver_mark"
+	id: "4157D7C587913652"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["&lNormal Quests&r will be &lCircles&r."]
+			id: "5F02265B659AD5F0"
+			tasks: [{
+				id: "789E40ED8DCA8A0C"
+				type: "checkmark"
+			}]
+			title: "Normal Quest"
+			x: -1.0d
+			y: 3.0d
+		}
+		{
+			description: ["&lOptional Quests&r will be &lSquares&r."]
+			id: "4CF272C039386F90"
+			optional: true
+			shape: "square"
+			tasks: [{
+				id: "0B29D35970B3B411"
+				type: "checkmark"
+			}]
+			title: "Optional Quest"
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			description: ["&lImportant Quests&r will be &lGears&r."]
+			id: "4C5C9E60E0C42841"
+			shape: "gear"
+			tasks: [{
+				id: "5F7C97A3618174E1"
+				type: "checkmark"
+			}]
+			title: "Important Quest"
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			description: [
+				"With &lCarry On&r you can pick up and move entities like chests or animals..."
+				""
+				"To use it, you just have to &lSneak+RightClick&r."
+			]
+			id: "266C9A730D093EAD"
+			tasks: [{
+				id: "4E9AE3D7DFD8E791"
+				title: "Carry On"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			description: [
+				"With &lFTB Ultimine&r, you can breake a shape of blocks by holding the &lUltimine key&r when breaking."
+				""
+				"This key can be changed in controls."
+			]
+			id: "4C9F9152C16DD2F1"
+			tasks: [{
+				id: "0F459CCCDAA9DE84"
+				title: "Ultimine"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			description: [
+				"You can play &lOPSkies 2&r in team with your friends."
+				"There is 2 things to do:"
+				""
+				"-With your inventory oppened, in the &ltop left corner&r, there is the &lFTB Teams&r button, that allow a player to create a Team. This will share the &lQuest Book&r."
+				""
+				"-To share youre &lEMC&r and &lKnowledge&r, you can use &l/team_projecte&r invite to simply invite a friend."
+				""
+				"-On server you can also use &l/skyblock invite&r."
+			]
+			id: "60A4AA5FA4972CFE"
+			tasks: [{
+				id: "7FF449C56A662306"
+				title: "Teams"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			description: [
+				"On your first island you can found the &lMarket&r, that will help you to buy some items."
+				""
+				"There is a &lvillager trader block&r that hold a fletcher, you can try to deal with him."
+				""
+				"There is also a &lcobblestone generator&r, i know that you know how to build one, this is why he is already here."
+			]
+			id: "55FEF7D70FD5F846"
+			tasks: [{
+				id: "301D1695055C3CFD"
+				title: "Island"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			description: [
+				"For quality of life, you can use &lhomes&r:"
+				""
+				"- &l/sethome&r will create a home at your position."
+				""
+				"- &l/home&r will teleport you to this home."
+				""
+				"You can use @modname on the JEI search bar to show all items from a mod."
+				""
+				"You can also spam sneaking to speed up plants and trees growing."
+			]
+			id: "4B7FA3AEB34C91AF"
+			tasks: [{
+				id: "109E755867A1303C"
+				title: "Commands"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			description: [
+				"With &lProjectE&r and his addons, you will have acces to a new kind of value: &lEMC&r."
+				""
+				"Many items got an &lEMC&r value and their knowledge can be learned in a &lTransmutation Table&r."
+				""
+				"Don't forget to learn as much as possible, this will help you a lot."
+				""
+				"You will have to produce more and more &lEMC&r to progress along the modpack."
+				""
+				"&l&4!!Careful!!&r Some items have EMC but &ncannot be learned&r. "
+				"That make them able to produce &lEMC&r but you arent able to generate them. Some exemples of items affected are :"
+				""
+				"Ores, Ingots, Nuggets, Ingot Blocks and many automatable items."
+			]
+			id: "696761914D618CBB"
+			subtitle: "What is EMC ?"
+			tasks: [{
+				id: "18CC6241F3703DB6"
+				title: "EMC ?"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			description: [
+				"On &lOPSkies 2&r you will have to pay with many mods."
+				""
+				"You will start with &lChickens&r, &lCreate&r &land Roots&r."
+				""
+				"Thoose mods will unlock other mods, that will unlock other mods ect..."
+				""
+				"To help you, you can just follow a bit the questline."
+			]
+			id: "0A17CD354CE5C4C9"
+			subtitle: "Welcome to OPSkies 2 !"
+			tasks: [{
+				id: "31CB36356A07BB10"
+				title: "OPSkies 2"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			description: [
+				"Thanks for all people that support this project on curseforge or other plateforms."
+				""
+				"Thanks for playing OPSkies 2, I hope you will like it."
+				""
+				"Thanks for your returns, that help a lot ! Discord : discord.gg/&lS7h4uRwYyF&r"
+				""
+				"Thanks if you has play on my other modpacks."
+				""
+				"Thanks for all !"
+			]
+			id: "788A1DD2F759B24F"
+			tasks: [{
+				id: "6DE2E0B675CBD5AE"
+				title: "Thanks"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: -1.0d
+		}
+	]
+	title: "&l&7Introduction"
+}

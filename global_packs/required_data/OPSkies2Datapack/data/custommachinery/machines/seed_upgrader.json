@@ -1,0 +1,102 @@
+{
+
+"name": {
+  "text": "Seed Upgrader",
+  "color": "blue"
+
+},
+
+"tooltips": "Used to upgrade seeds for chicken EXP" ,
+
+  "appearance": {
+    "block": "custommachinery:machine/seed_upgrader_model",
+    "item": "custommachinery:machine/seed_upgrader_model",
+    "ambient_sound": "",
+    "interaction_sound": "minecraft:iron_block",
+    "light": 0,
+    "color": 16777215,
+    "hardness": 3.5,
+    "resistance": 3.5,
+    "tool_type": "minecraft:mineable/pickaxe",
+    "mining_level": "minecraft:needs_iron_tool",
+    "requires_tool": true,
+    "shape": [ [ 0, 0, 0, 1, 1, 1 ] ]
+  },
+
+"components": [
+        {
+            "type": "custommachinery:energy",
+            "capacity": 100000,
+            "maxInput": 10000,
+            "maxOutput": 10000
+        }, 
+        {
+            
+            "type": "custommachinery:fluid",
+            "capacity": 10000,
+            "id": "watertank",
+            "maxInput": 5000,
+            "maxOutput": 5000,
+          "filter": ["minecraft:water"],
+            "whitelist": true
+        },
+        {
+            "type": "custommachinery:item",
+            "id": "input1",
+            "mode": "input"
+        },
+        {
+            "type": "custommachinery:item",
+            "id": "input2",
+            "mode": "input"
+        },
+        {
+            "type": "custommachinery:item",
+            "id": "output",
+            "mode": "output"
+        }
+    ],
+
+"gui": [
+        {
+          "type": "custommachinery:energy",
+          "x": 20,
+          "y": 20
+        },
+        {
+          "type": "custommachinery:fluid",
+          "x": 20,
+          "y": 75,
+          "id": "watertank"
+        },
+        {
+          "type": "custommachinery:player_inventory",
+          "x": 70,
+          "y": 80
+        },
+        {
+          "type": "custommachinery:progress",
+          "x": 133,
+          "y": 50
+        },
+        {
+          "type": "custommachinery:slot",
+          "x": 105,
+          "y": 40,
+          "id": "input1"
+        },
+        {
+          "type": "custommachinery:slot",
+          "x": 105,
+          "y": 60,
+          "id": "input2"
+        },
+        {
+          "type": "custommachinery:slot",
+          "x": 165,
+          "y": 49,
+          "id": "output"
+        }
+  ]
+
+}

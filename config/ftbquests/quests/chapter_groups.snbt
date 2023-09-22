@@ -1,0 +1,10 @@
+{
+	chapter_groups: [
+		{ id: "23E157AF6F47953A", title: "&l&6Chapter 1" }
+		{ id: "19D5A0E3CE96DA7A", title: "&l&6Chapter 2" }
+		{ id: "6C2397A77EB1ABC2", title: "&l&6Chapter 3" }
+		{ id: "49138B718C06F741", title: "&l&6Chapter 4" }
+		{ id: "0D9F3E24E88350FB", title: "&l&5Chapter 5" }
+		{ id: "13BCFEB013D125CE", title: "&l&3Optional quests" }
+	]
+}

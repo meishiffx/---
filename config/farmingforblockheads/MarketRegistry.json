@@ -1,0 +1,223 @@
+{
+    "customCategories": {
+        "utilities": {
+            "name": "Utilities",
+            "icon": {
+                "item": "minecraft:egg"
+            }
+          }
+        },
+
+  "customEntries": [
+    {
+      "output": {
+        "item": "minecraft:chicken_spawn_egg"
+      },
+      "payment": {
+        "item": "minecraft:cobblestone",
+        "count": 64
+      },
+      "category": "utilities"
+    },
+    {
+      "output": {
+        "item": "thermal:basalz_spawn_egg"
+      },
+      "payment": {
+        "item": "minecraft:emerald",
+        "count": 64
+      },
+      "category": "utilities"
+    },
+    {
+      "output": {
+        "item": "thermal:blitz_spawn_egg"
+      },
+      "payment": {
+        "item": "minecraft:emerald",
+        "count": 64
+      },
+      "category": "utilities"
+    },
+    {
+      "output": {
+        "item": "thermal:blizz_spawn_egg"
+      },
+      "payment": {
+        "item": "minecraft:emerald",
+        "count": 64
+      },
+      "category": "utilities"
+    },
+    {
+      "output": {
+        "item": "chicken_roost:e_chicken_cobble"
+      },
+      "payment": {
+        "item": "minecraft:cobblestone",
+        "count": 64
+      },
+      "category": "utilities"
+    },
+    {
+      "output": {
+        "item": "easy_villagers:villager"
+      },
+      "payment": {
+        "item": "minecraft:emerald",
+        "count": 64
+      },
+      "category": "utilities"
+    },
+    {
+      "output": {
+        "item": "chicken_roost:e_chicken_ink"
+      },
+      "payment": {
+        "item": "minecraft:coal",
+        "count": 64
+      },
+      "category": "utilities"
+    },
+    {
+      "output": {
+        "item": "chicken_roost:e_chicken_netherrack"
+      },
+      "payment": {
+        "item": "minecraft:coal",
+        "count": 64
+      },
+      "category": "utilities"
+    },
+    {
+      "output": {
+        "item": "chicken_roost:e_chicken_bone"
+      },
+      "payment": {
+        "item": "minecraft:coal",
+        "count": 64
+      },
+      "category": "utilities"
+    },
+    {
+      "output": {
+        "item": "chicken_roost:e_chicken_string"
+      },
+      "payment": {
+        "item": "minecraft:clay_ball",
+        "count": 64
+      },
+      "category": "utilities"
+    },
+    {
+      "output": {
+        "item": "chicken_roost:e_chicken_endstone"
+      },
+      "payment": {
+        "item": "minecraft:gold_ingot",
+        "count": 64
+      },
+      "category": "utilities"
+    },
+    {
+      "output": {
+        "item": "minecraft:bamboo"
+      },
+      "payment": {
+        "item": "minecraft:emerald",
+        "count": 64
+      },
+      "category": "utilities"
+    },
+    {
+      "output": {
+        "item": "minecraft:amethyst_shard"
+      },
+      "payment": {
+        "item": "minecraft:emerald",
+        "count": 64
+      },
+      "category": "utilities"
+    },
+    {
+      "output": {
+        "item": "minecraft:ice"
+      },
+      "payment": {
+        "item": "minecraft:cobblestone",
+        "count": 64
+      },
+      "category": "utilities"
+    },
+    {
+      "output": {
+        "item": "minecraft:lava_bucket"
+      },
+      "payment": {
+        "item": "minecraft:cobblestone",
+        "count": 64
+      },
+      "category": "utilities"
+    },
+    {
+      "output": {
+        "item": "silentgear:netherwood_sapling"
+      },
+      "payment": {
+        "item": "minecraft:emerald",
+        "count": 64
+      },
+      "category": "utilities"
+    },
+    {
+      "output": {
+        "item": "minecraft:brown_mushroom"
+      },
+      "payment": {
+        "item": "minecraft:emerald",
+        "count": 64
+      },
+      "category": "utilities"
+    },
+    {
+      "output": {
+        "item": "minecraft:red_mushroom"
+      },
+      "payment": {
+        "item": "minecraft:emerald",
+        "count": 64
+      },
+      "category": "utilities"
+    },
+    {
+      "output": {
+        "item": "minecraft:kelp"
+      },
+      "payment": {
+        "item": "minecraft:cobblestone",
+        "count": 64
+      },
+      "category": "utilities"
+    },
+    {
+      "output": {
+        "item": "theabyss:loran_flower"
+      },
+      "payment": {
+        "item": "ars_nouveau:source_gem",
+        "count": 64
+      },
+      "category": "utilities"
+    },
+    {
+      "output": {
+        "item": "minecraft:sponge"
+      },
+      "payment": {
+        "item": "minecraft:gold_ingot",
+        "count": 32
+      },
+      "category": "utilities"
+    }
+  ]
+}

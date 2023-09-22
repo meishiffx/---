@@ -1,0 +1,14 @@
+{
+  "type": "chicken_roost:basic_breeding",
+  "ingredients": [
+    {
+      "item": "chicken_roost:chicken_food_tier_4"
+    },
+    {
+      "item": "chicken_roost:e_chicken_iron"
+    }
+  ],
+  "output": {
+    "item": "minecraft:air"
+  }
+}

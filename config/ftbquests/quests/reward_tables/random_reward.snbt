@@ -1,0 +1,212 @@
+{
+	icon: "quark:redstone_randomizer"
+	id: "698138256A3FF6D1"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{ item: "supplementaries:globe" }
+		{ item: "supplementaries:globe_sepia" }
+		{ item: "supplementaries:hourglass" }
+		{ item: "supplementaries:silver_lantern" }
+		{ item: "supplementaries:pedestal" }
+		{ item: "supplementaries:candy" }
+		{ item: "dustrial_decor:anchor" }
+		{ item: "dustrial_decor:hook" }
+		{ item: "dustrial_decor:redstone_lantern" }
+		{ item: "decorative_blocks:soul_brazier" }
+		{ item: "createdeco:gold_coin" }
+		{ item: "createdeco:gold_coinstack" }
+		{ item: "createdeco:cracked_red_long_bricks" }
+		{ item: "pamhc2trees:pistachioitem" }
+		{ item: "pamhc2trees:passionfruititem" }
+		{ item: "pamhc2trees:lycheeitem" }
+		{ item: "pamhc2foodextended:dragonfruitjellysandwichitem" }
+		{ item: "pamhc2foodextended:kiwiyogurtitem" }
+		{ item: "pamhc2foodextended:apricotjellytoastitem" }
+		{ item: "pamhc2foodextended:mangopieitem" }
+		{ item: "pamhc2foodextended:peachsmoothieitem" }
+		{ item: "pamhc2foodextended:orangejellyitem" }
+		{
+			item: {
+				Count: 1b
+				id: "sophisticatedbackpacks:backpack"
+				tag: {
+					contentsUuid: [I;
+						-82750156
+						817841664
+						-2065487989
+						-2059726005
+					]
+					inventorySlots: 27
+					upgradeSlots: 1
+				}
+			}
+		}
+		{ item: "simplylight:illuminant_block_on" }
+		{ item: "simplylight:edge_light_top" }
+		{ item: "simplylight:edge_light" }
+		{ item: "simplylight:rodlamp" }
+		{ item: "simplylight:lightbulb" }
+		{ item: "simplylight:wall_lamp" }
+		{ item: "simplylight:illuminant_panel" }
+		{ item: "simplylight:illuminant_slab" }
+		{ item: "simplylight:lamp_post" }
+		{
+			item: {
+				Count: 1b
+				id: "simplemagnets:advancedmagnet"
+				tag: { }
+			}
+		}
+		{ item: "cyclic:heart" }
+		{ item: "ringsofascension:ring_fire_resistance" }
+		{ item: "ringsofascension:ring_invisibility" }
+		{ item: "ringsofascension:ring_slow_falling" }
+		{ item: "ringsofascension:ring_speed" }
+		{ item: "ringsofascension:ring_night_vision" }
+		{ item: "ringsofascension:ring_mining" }
+		{ item: "pamhc2trees:oliveitem" }
+		{ item: "pamhc2trees:dateitem" }
+		{ item: "pamhc2trees:coconutitem" }
+		{ item: "pamhc2trees:avocadoitem" }
+		{ item: "pamhc2trees:candlenutitem" }
+		{ item: "pamhc2trees:chestnutitem" }
+		{ item: "pamhc2trees:bananaitem" }
+		{ item: "ringsofascension:ring_water_walking" }
+		{ item: "ringsofascension:ring_experience" }
+		{ item: "fantasyfurniture:venthyr/bed_single" }
+		{ item: "fantasyfurniture:bone/skeleton/drawer" }
+		{ item: "fantasyfurniture:bone/skeleton/chandelier" }
+		{ item: "fantasyfurniture:bone/wither/painting_wide" }
+		{ item: "fantasyfurniture:venthyr/chair" }
+		{ item: "fantasyfurniture:nordic/chandelier" }
+		{ item: "cyclic:spikes_iron" }
+		{
+			item: {
+				Count: 1b
+				id: "cyclic:charm_luck"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cyclic:charm_boostpotion"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{ item: "pamhc2foodextended:vanillaconchasbreaditem" }
+		{ item: "pamhc2foodextended:szechuaneggplantitem" }
+		{ item: "pamhc2foodextended:strawberryrhubarbpieitem" }
+		{ item: "pamhc2foodextended:splitpeasoupitem" }
+		{ item: "pamhc2foodextended:ricepuddingitem" }
+		{ item: "pamhc2foodextended:potatoesobrienitem" }
+		{ item: "pamhc2foodextended:pinacoladaitem" }
+		{ item: "pamhc2foodextended:omeletitem" }
+		{ item: "pamhc2foodextended:mushroomsteakitem" }
+		{ item: "pamhc2foodextended:mettbrotchenitem" }
+		{ item: "pamhc2foodextended:lasagnaitem" }
+		{ item: "pamhc2foodextended:imitationcrabsticksitem" }
+		{ item: "pamhc2foodextended:honeybunitem" }
+		{ item: "pamhc2foodextended:holidaycakeitem" }
+		{ item: "pamhc2foodextended:hoisinsauceitem" }
+		{ item: "pamhc2foodextended:grilledskewersitem" }
+		{ item: "pamhc2foodextended:friedpecanokraitem" }
+		{ item: "pamhc2foodextended:cornedbeefitem" }
+		{ item: "framedblocks:framed_corner_slope" }
+		{ item: "framedblocks:framed_slope" }
+		{ item: "framedblocks:framed_cube" }
+		{ item: "framedblocks:framed_panel" }
+		{ item: "framedblocks:framed_stairs" }
+		{ item: "framedblocks:framed_door" }
+		{ item: "framedblocks:framed_trapdoor" }
+		{ item: "framedblocks:framed_ladder" }
+		{ item: "framedblocks:framed_slab" }
+		{ item: "thermal:cooked_mushroom" }
+		{ item: "thermal:frost_melon_slice" }
+		{ item: "thermal:radish" }
+		{ item: "thermal:corn" }
+		{ item: "thermal:bell_pepper" }
+		{ item: "thermal:strawberry" }
+		{ item: "thermal:tomato" }
+		{ item: "thermal:onion" }
+		{ item: "pamhc2trees:starfruititem" }
+		{ item: "pamhc2foodextended:sesamesnapsitem" }
+		{ item: "pamhc2foodextended:sourcreamandonionpotatochipsitem" }
+		{ item: "pamhc2foodextended:cheezepuffsitem" }
+		{ item: "pamhc2foodextended:bbqpotatochipsitem" }
+		{ item: "pamhc2foodextended:chocolatepeanutbaritem" }
+		{ item: "pamhc2foodextended:chocolatecoconutbaritem" }
+		{ item: "pamhc2foodextended:spagettiandmeatballsitem" }
+		{ item: "pamhc2foodcore:melonsmoothieitem" }
+		{ item: "pamhc2foodcore:basichamburgeritem" }
+		{ item: "pamhc2foodcore:baconandeggsitem" }
+		{ item: "pamhc2foodcore:chocolaterollitem" }
+		{ item: "pamhc2foodcore:softpretzelitem" }
+		{ item: "pamhc2foodcore:donutitem" }
+		{ item: "pamhc2foodextended:onionringsitem" }
+		{ item: "pamhc2foodextended:onigiriitem" }
+		{ item: "pamhc2foodextended:misopasteitem" }
+		{ item: "pamhc2foodextended:lavendershortbreaditem" }
+		{ item: "pamhc2foodextended:imitationcrabsticksitem" }
+		{ item: "pamhc2foodextended:hotwingsitem" }
+		{ item: "pamhc2foodextended:honeysoyribsitem" }
+		{ item: "pamhc2foodextended:honeycombchocolatebaritem" }
+		{ item: "pamhc2foodextended:hushpuppiesitem" }
+		{ item: "pamhc2foodextended:meringuebombeitem" }
+		{ item: "pamhc2foodextended:mintchocolatechipicecreamitem" }
+		{ item: "pamhc2foodextended:musubiitem" }
+		{
+			item: {
+				Count: 1b
+				id: "vinery:jo_special_mixture"
+				tag: {
+					Year: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "vinery:cherry_wine"
+				tag: {
+					Year: 0
+				}
+			}
+		}
+		{ item: "pamhc2crops:roastedmushroomitem" }
+		{ item: "pamhc2crops:turnipitem" }
+		{ item: "pamhc2crops:broccoliitem" }
+		{ item: "pamhc2crops:cucumberitem" }
+		{ item: "pamhc2crops:artichokeitem" }
+		{ item: "pamhc2crops:caulifloweritem" }
+		{ item: "pamhc2crops:celeryitem" }
+		{ item: "pamhc2crops:tomatoitem" }
+		{ item: "pamhc2crops:wintersquashitem" }
+		{ item: "pamhc2crops:radishitem" }
+		{ item: "pamhc2crops:grapeitem" }
+		{ item: "pamhc2crops:roastedonionitem" }
+		{ item: "pamhc2crops:hotcoffeeitem" }
+		{ item: "pamhc2foodcore:chocolatedonutitem" }
+		{ item: "farmersdelight:pumpkin_slice" }
+		{ item: "farmersdelight:smoked_ham" }
+		{ item: "farmersdelight:kelp_roll" }
+		{ item: "farmersdelight:bone_broth" }
+		{ item: "farmersdelight:vegetable_soup" }
+		{ item: "farmersdelight:bacon_and_eggs" }
+		{ item: "farmersdelight:mushroom_rice" }
+		{ item: "farmersdelight:grilled_salmon" }
+		{ item: "farmersdelight:egg_sandwich" }
+		{ item: "farmersdelight:chicken_soup" }
+		{
+			type: "xp"
+			weight: 140.0f
+			xp: 25
+		}
+	]
+	title: "Random Reward"
+}

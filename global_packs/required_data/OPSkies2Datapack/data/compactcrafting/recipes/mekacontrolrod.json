@@ -1,0 +1,53 @@
+{
+  "type": "compactcrafting:miniaturization",
+  "layers": [
+    {
+      "type": "compactcrafting:mixed",
+      "pattern": [
+        [ "C", "C", "C" ],
+        [ "C", "E", "C" ],
+        [ "C", "C", "C" ]
+      ]
+    },
+    {
+      "type": "compactcrafting:mixed",
+      "pattern": [
+        [ "C", "E", "C" ],
+        [ "E", "D", "E" ],
+        [ "C", "E", "C" ]
+      ]
+    },
+    {
+      "type": "compactcrafting:mixed",
+      "pattern": [
+        [ "C", "C", "C" ],
+        [ "C", "E", "C" ],
+        [ "C", "C", "C" ]
+      ]
+    }
+  ],
+  "catalyst": {
+      "id": "minecraft:diamond",
+      "Count": 1    
+  },
+  "components": {
+    "C": {
+      "type": "compactcrafting:block",
+      "block": "mekanismgenerators:fission_reactor_casing"
+    },
+    "E": {
+      "type": "compactcrafting:block",
+      "block": "pneumaticcraft:plastic_brick_white"
+    },
+    "D": {
+      "type": "compactcrafting:block",
+      "block": "projectexpansion:cyan_fuel_block"
+    }
+  },
+  "outputs": [
+    {
+      "id": "mekanismgenerators:control_rod_assembly",
+      "Count": 4
+    }
+  ]
+}

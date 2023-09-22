@@ -1,0 +1,288 @@
+{
+  "entries": [
+    {
+      "item": "minecraft:diamond_ore",
+      "emc": 1024
+    },
+    {
+      "item": "minecraft:gravel",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:brain_coral",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:dead_brain_coral",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:brain_coral_fan",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:dead_brain_coral_fan",
+      "emc": 0
+    },
+    {
+      "item": "cyclic:compressed_cobblestone",
+      "emc": 9
+    },
+    {
+      "item": "minecraft:clay",
+      "emc": 64
+    },
+    {
+      "item": "bambooeverything:bamboo_bundle",
+      "emc": 288
+    },
+    {
+      "item": "minecraft:flowering_azalea_leaves",
+      "emc": 96
+    },
+    {
+      "item": "minecraft:flowering_azalea",
+      "emc": 96
+    },
+    {
+      "item": "minecraft:nether_wart_block",
+      "emc": 216
+    },
+    {
+      "item": "minecraft:flint",
+      "emc": 192
+    },
+    {
+      "item": "refinedstorage:crafting_grid",
+      "emc": 0
+    },
+    {
+      "item": "refinedstorage:controller",
+      "emc": 0
+    },
+    {
+      "item": "refinedstorage:disk_drive",
+      "emc": 0
+    },
+    {
+      "item": "refinedstorage:1k_storage_disk{Id:[I;397363634,472925925,-1819295535,-473337117]}",
+      "emc": 0
+    },
+    {
+      "item": "refinedstorage:quartz_enriched_iron",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:basic_universal_cable",
+      "emc": 0
+    },
+    {
+      "item": "easy_villagers:trader",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:fletching_table",
+      "emc": 0
+    },
+    {
+      "item": "projecte:transmutation_tablet",
+      "emc": 2228492
+    },
+    {
+      "item": "morphtool:tool",
+      "emc": 0
+    },
+    {
+      "item": "akashictome:tome",
+      "emc": 0
+    },
+    {
+      "item": "tiab:time_in_a_bottle{storedTime:6340,totalAccumulatedTime:6340}",
+      "emc": 0
+    },
+    {
+      "item": "tiab:time_in_a_bottle",
+      "emc": 0
+    },
+    {
+      "item": "fluxnetworks:flux_dust",
+      "emc": 0
+    },
+    {
+      "item": "entangled:block",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:alloy_infused",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:basic_control_circuit",
+      "emc": 0
+    },
+    {
+      "item": "refinedstorage:processor_binding",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:dust_refined_obsidian",
+      "emc": 0
+    },
+    {
+      "item": "create:powdered_obsidian",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:enriched_carbon",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:enriched_redstone",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:enriched_diamond",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:enriched_refined_obsidian",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:enriched_gold",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:enriched_tin",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:hdpe_pellet",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:hdpe_sheet",
+      "emc": 90000
+    },
+    {
+      "item": "mekanism:ingot_refined_obsidian",
+      "emc": 75000
+    },
+    {
+      "item": "mekanism:pellet_polonium",
+      "emc": 1000000
+    },
+    {
+      "item": "thermal:enderium_ingot",
+      "emc": 0
+    },
+    {
+      "item": "thermal_extra:dragonsteel_ingot",
+      "emc": 1000000
+    },
+    {
+      "item": "minecraft:dragon_breath",
+      "emc": 0
+    },
+    {
+      "item": "hostilenetworks:empty_prediction",
+      "emc": 0
+    },
+    {
+      "item": "hostilenetworks:sim_chamber",
+      "emc": 0
+    },
+    {
+      "item": "hostilenetworks:loot_fabricator",
+      "emc": 0
+    },
+    {
+      "item": "thermal:rf_coil",
+      "emc": 0
+    },
+    {
+      "item": "silentgear:crimson_iron_ingot",
+      "emc": 0
+    },
+    {
+      "item": "silentgear:azure_silver_ingot",
+      "emc": 0
+    },
+    {
+      "item": "industrialforegoing:pink_slime_ingot",
+      "emc": 250000
+    },
+    {
+      "item": "powah:crystal_nitro",
+      "emc": 100000
+    },
+    {
+      "item": "pneumaticcraft:module_expansion_card",
+      "emc": 2000000
+    },
+    {
+      "item": "immersiveengineering:cokebrick",
+      "emc": 0
+    },
+    {
+      "item": "create:polished_rose_quartz",
+      "emc": 0
+    },
+    {
+      "item": "elementalcraft:fireite_ingot",
+      "emc": 500000
+    },
+    {
+      "item": "minecraft:dragon_egg",
+      "emc": 500000
+    },
+    {
+      "item": "botania:livingwood_log",
+      "emc": 0
+    },
+    {
+      "item": "botania:stripped_livingwood_log",
+      "emc": 0
+    },
+    {
+      "item": "botania:glimmering_livingwood_log",
+      "emc": 0
+    },
+    {
+      "item": "botania:glimmering_stripped_livingwood_log",
+      "emc": 0
+    },
+    {
+      "item": "botania:livingwood",
+      "emc": 0
+    },
+    {
+      "item": "botania:stripped_livingwood",
+      "emc": 0
+    },
+    {
+      "item": "botania:glimmering_stripped_livingwood",
+      "emc": 0
+    },
+    {
+      "item": "botania:livingwood_planks",
+      "emc": 0
+    },
+    {
+      "item": "botania:mossy_livingwood_planks",
+      "emc": 0
+    },
+    {
+      "item": "botania:framed_livingwood",
+      "emc": 0
+    },
+    {
+      "item": "botania:pattern_framed_livingwood",
+      "emc": 0
+    },
+    {
+      "item": "botania:glimmering_livingwood",
+      "emc": 0
+    }
+  ]
+}

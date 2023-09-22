@@ -1,0 +1,1 @@
+<recipetype:create:crushing>.addRecipe("loran", [<item:theabyss:loran> % 100], <item:theabyss:loran_flower>);

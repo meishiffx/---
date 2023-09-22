@@ -1,0 +1,335 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "miniature_crafting"
+	group: "6C2397A77EB1ABC2"
+	icon: "compactcrafting:field_projector"
+	id: "6ECBCE5B25168EDA"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["Use field projector to make some compact crafts."]
+			icon: "botania:cosmetic_questgiver_mark"
+			id: "4808C85BF71341F1"
+			tasks: [{
+				id: "002059DD26BB6C3B"
+				type: "checkmark"
+			}]
+			title: "Compact Crafting"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["362FBBA4071D8E65"]
+			id: "16736A22222A569E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "03C483066962249D"
+				table_id: 7602419379325630161L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 4L
+				id: "0C37E89CFEDAED6C"
+				item: "compactcrafting:field_projector"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["362FBBA4071D8E65"]
+			description: [
+				"&lProxies&r are redstone-automatable blocks designed to simplify automation with a miniaturization field. Craft the type you want and then right-click the proxy item on an active field projector to bind it. Once placed down, breaking the block or destabilizing the field (ie by breaking a projector) will unlink the proxy from the field."
+				""
+				"&n&lMatch Proxy&r&r"
+				"&lMatch proxies&r are used to read recipe state from an active field. They give full redstone signal (15) when a recipe is matched or actively crafting inside the field."
+				""
+				"&n&lRescan Proxy&r&r"
+				"&lRescan proxies&r are used to trigger a forced rescan on a field. Miniaturization fields sometimes fail to pick up on changes from automation-style block placers, so you can use these proxies to trigger a scan on a field. They're especially helpful on a hands-free timer setup, for easy automation of highly-used resources!"
+			]
+			id: "4F5D95265C3F2EE6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "20FCA99456A6839F"
+				table_id: 7602419379325630161L
+				type: "random"
+			}]
+			subtitle: "&lProxies"
+			tasks: [
+				{
+					id: "148E2E6376EFEC55"
+					item: "compactcrafting:match_proxy"
+					type: "item"
+				}
+				{
+					id: "55A0D8F27A2F7C67"
+					item: "compactcrafting:rescan_proxy"
+					type: "item"
+				}
+			]
+			title: "Proxies"
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["16736A22222A569E"]
+			description: [
+				"With thoose towers you can produce brine and lithium."
+				""
+				"Useful to make massive energy storage."
+			]
+			id: "7FB8773BA4D559AE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4176D4F3695F238A"
+				table_id: 7602419379325630161L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6A64A55CDAD6608E"
+				item: "mekanism:thermal_evaporation_block"
+				type: "item"
+			}]
+			title: "Brine Towers"
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["16736A22222A569E"]
+			id: "43E0D7B14E9857F5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2D1D91001DB81029"
+				table_id: 7602419379325630161L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4DA00E381D641E29"
+				item: "mekanismgenerators:turbine_casing"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7FB8773BA4D559AE"]
+			id: "6EB22EC626427E02"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "711318393CAEEA7C"
+				table_id: 7602419379325630161L
+				type: "random"
+			}]
+			tasks: [{
+				id: "1AB38EA0A8F6007C"
+				item: "mekanism:basic_induction_cell"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["6EB22EC626427E02"]
+			id: "09C49B0005ABE2C5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "089F700BF2786480"
+				table_id: 7602419379325630161L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0E8E0518BAF30735"
+				item: "mekanism:advanced_induction_cell"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["09C49B0005ABE2C5"]
+			id: "3CD8AA72AAE9DA96"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "223E128FBF3725B9"
+				table_id: 7602419379325630161L
+				type: "random"
+			}]
+			tasks: [{
+				id: "10D4D95EF43C34B3"
+				item: "mekanism:elite_induction_cell"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["3CD8AA72AAE9DA96"]
+			id: "471D25F073D8A1C1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5E265ED201CF5C83"
+				table_id: 7602419379325630161L
+				type: "random"
+			}]
+			tasks: [{
+				id: "701E1A826FDA883C"
+				item: "mekanism:ultimate_induction_cell"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["7FB8773BA4D559AE"]
+			id: "4C1C165A0654065B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5D46606C41FC0350"
+				table_id: 7602419379325630161L
+				type: "random"
+			}]
+			tasks: [{
+				id: "58F9D3714036EEAA"
+				item: "mekanism:basic_induction_provider"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["4C1C165A0654065B"]
+			id: "1CE45E98E6D3475D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "394623E815F287A1"
+				table_id: 7602419379325630161L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6B745B03CBA3A4F3"
+				item: "mekanism:advanced_induction_provider"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["1CE45E98E6D3475D"]
+			id: "240F95553BD09E5B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "75B19155C7E5C4D1"
+				table_id: 7602419379325630161L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4E570E8813AB79A7"
+				item: "mekanism:elite_induction_provider"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["240F95553BD09E5B"]
+			id: "46AD5C90ED863EA0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5FB18AC3750DBE6D"
+				table_id: 7602419379325630161L
+				type: "random"
+			}]
+			tasks: [{
+				id: "627FDC3EDE57574F"
+				item: "mekanism:ultimate_induction_provider"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["6EB22EC626427E02"]
+			hide_dependency_lines: true
+			id: "38918C99008C9F60"
+			optional: true
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "75CFE797A68AA088"
+				table_id: 7602419379325630161L
+				type: "random"
+			}]
+			shape: "square"
+			tasks: [{
+				id: "1BB3913A9FE384C0"
+				item: "mekanism:mekasuit_helmet"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6EB22EC626427E02"]
+			hide_dependency_lines: true
+			id: "49A4B1C0CB8BBFB1"
+			optional: true
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0FF149C3BFAB9662"
+				table_id: 7602419379325630161L
+				type: "random"
+			}]
+			shape: "square"
+			tasks: [{
+				id: "2C34FAF5CA0F9B23"
+				item: "mekanism:mekasuit_bodyarmor"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["6EB22EC626427E02"]
+			hide_dependency_lines: true
+			id: "7D49065DDFB99E12"
+			optional: true
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7018380542EC1BD4"
+				table_id: 7602419379325630161L
+				type: "random"
+			}]
+			shape: "square"
+			tasks: [{
+				id: "2E7FA6023EAEEF3A"
+				item: "mekanism:mekasuit_pants"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6EB22EC626427E02"]
+			hide_dependency_lines: true
+			id: "56522B547119611C"
+			optional: true
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "58106A74AC81C732"
+				table_id: 7602419379325630161L
+				type: "random"
+			}]
+			shape: "square"
+			tasks: [{
+				id: "17A8E7687F196261"
+				item: "mekanism:mekasuit_boots"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.0d
+		}
+	]
+	title: "&l&7Compact Crafting"
+}

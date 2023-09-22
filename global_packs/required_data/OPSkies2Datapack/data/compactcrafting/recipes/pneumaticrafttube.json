@@ -1,0 +1,37 @@
+{
+  "type": "compactcrafting:miniaturization",
+  "layers": [
+    {
+      "type": "compactcrafting:mixed",
+      "pattern": [
+        [ "C", "C", "C" ],
+        [ "D", "E", "D" ],
+        [ "C", "C", "C" ]
+      ]
+    }
+  ],
+  "catalyst": {
+      "id": "minecraft:diamond",
+      "Count": 1    
+  },
+  "components": {
+    "C": {
+      "type": "compactcrafting:block",
+      "block": "minecraft:air"
+    },
+    "E": {
+      "type": "compactcrafting:block",
+      "block": "projectexpansion:green_fuel_block"
+    },
+    "D": {
+      "type": "compactcrafting:block",
+      "block": "pneumaticcraft:compressed_iron_block"
+    }
+  },
+  "outputs": [
+    {
+      "id": "pneumaticcraft:pressure_tube",
+      "Count": 32
+    }
+  ]
+}
