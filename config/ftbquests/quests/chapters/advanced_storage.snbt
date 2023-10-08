@@ -185,12 +185,20 @@
 			dependencies: ["3A15FCD0F854F687"]
 			description: ["Improve your crafts !"]
 			id: "315A9BE0298E9214"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "0E1704E7CB95DC3C"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0E1704E7CB95DC3C"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "43E870C393CD3788"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "53310EAE3F7BDC12"
 				item: "refinedstorage:crafter"
@@ -222,17 +230,32 @@
 		{
 			dependencies: ["0259FF8C2A506387"]
 			id: "3A15FCD0F854F687"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "1420C83FAFBE9005"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
-			tasks: [{
-				id: "74D5C15C4C89A2F4"
-				item: "refinedstorage:machine_casing"
-				type: "item"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1420C83FAFBE9005"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "23DF7C3E963D91A7"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "74D5C15C4C89A2F4"
+					item: "refinedstorage:machine_casing"
+					type: "item"
+				}
+				{
+					id: "2F31E60E712BF291"
+					item: "refinedstorage:controller"
+					type: "item"
+				}
+			]
 			x: 0.0d
 			y: -3.0d
 		}
@@ -333,12 +356,20 @@
 		{
 			dependencies: ["3A15FCD0F854F687"]
 			id: "07EEF56661B3B899"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "5C7F35DB085C9068"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5C7F35DB085C9068"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "170B52C5382ABA44"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "7997402152316A35"
 				item: "refinedstorage:interface"
@@ -350,12 +381,20 @@
 		{
 			dependencies: ["3A15FCD0F854F687"]
 			id: "139E9B7391AA8C6A"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "652287DDED592EB1"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "652287DDED592EB1"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "48DA2FA9597F9AA1"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "625ED1DF31B1FE0B"
 				item: "refinedstorage:fluid_interface"
@@ -677,6 +716,7 @@
 		}
 		{
 			dependencies: ["3A15FCD0F854F687"]
+			description: ["All the screens you need."]
 			id: "34B995255C7ABC49"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -700,12 +740,18 @@
 					item: "refinedstorage:crafting_monitor"
 					type: "item"
 				}
+				{
+					id: "5D8E9DBAD4C4035B"
+					item: "refinedstorage:crafting_grid"
+					type: "item"
+				}
 			]
 			x: 0.0d
 			y: -4.5d
 		}
 		{
 			dependencies: ["3A15FCD0F854F687"]
+			description: ["Used to interact with your network in wireless."]
 			id: "26ACAE252B878052"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -1032,12 +1078,20 @@
 		{
 			dependencies: ["315A9BE0298E9214"]
 			id: "463C69251AF967A2"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "11B975C10055D344"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "11B975C10055D344"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6F4CEB43551BFC1B"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "37956C75B8395714"
 				item: "extrastorage:iron_crafter"
@@ -1049,12 +1103,20 @@
 		{
 			dependencies: ["463C69251AF967A2"]
 			id: "1C412C94A305C108"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "5F6A0F4F30CA0852"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5F6A0F4F30CA0852"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "48434A443E0BB274"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "1C8A52F93E4EF1FB"
 				item: "extrastorage:gold_crafter"
@@ -1066,12 +1128,20 @@
 		{
 			dependencies: ["1C412C94A305C108"]
 			id: "563607B4F0A19FE7"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "06A599F888BA8705"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "06A599F888BA8705"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0D33F24366481533"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "5294B1FAE42C9AB5"
 				item: "extrastorage:diamond_crafter"
@@ -1083,12 +1153,20 @@
 		{
 			dependencies: ["563607B4F0A19FE7"]
 			id: "0CAB4C7FA02E8CCF"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "718602465D1080DD"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "718602465D1080DD"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "002E44EB7C5FEF60"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "2DCF933C8D54DA9E"
 				item: "extrastorage:netherite_crafter"
@@ -1101,6 +1179,12 @@
 			dependencies: ["26ACAE252B878052"]
 			id: "44E3046252FA3EC9"
 			optional: true
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6AF151343CE611B2"
+				table_id: 6223108127821247462L
+				type: "random"
+			}]
 			shape: "square"
 			tasks: [{
 				id: "4DD95EBF21647ADC"

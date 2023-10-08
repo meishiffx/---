@@ -26,12 +26,20 @@
 				"46C3D449143F0605"
 			]
 			id: "0AA70637F19A7410"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "0BD52DE4D5769C8F"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0BD52DE4D5769C8F"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6BD85B9A16FDBF5B"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "36444E0EFFD7F6EF"
 				item: "pneumaticcraft:pressure_tube"
@@ -246,12 +254,20 @@
 		{
 			dependencies: ["0A7BF7C25CFB47DE"]
 			id: "44E4E87EBD5D912A"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "0D6BC0418BA05916"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0D6BC0418BA05916"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "32F9053D926F2745"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "7A4B74F5A1A84863"
 				item: "pneumaticcraft:amadron_tablet"
@@ -266,12 +282,20 @@
 				"37A3BFBEB21F7E9F"
 			]
 			id: "0A7BF7C25CFB47DE"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "386955545F865FC1"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "386955545F865FC1"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "16684D41A8FEA7A9"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			shape: "gear"
 			tasks: [{
 				id: "44BDC450D118C866"
@@ -357,12 +381,20 @@
 				"1F3C2FF915E03043"
 			]
 			id: "7BA46B05E9C9B438"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "5108FA92F28F119E"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5108FA92F28F119E"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "31EB9E30BA440FD7"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "7582622084E9A04B"
 				item: {
@@ -383,12 +415,20 @@
 				"0DA23E3A39EBF647"
 			]
 			id: "07E6E931A8095E26"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "41492E59ED167523"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "41492E59ED167523"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "79809BA22809BECF"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "003FC0E2C9407E80"
 				item: "pneumaticcraft:unassembled_pcb"
@@ -400,12 +440,20 @@
 		{
 			dependencies: ["07E6E931A8095E26"]
 			id: "63D1B3549E8E82CD"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "13A77738A77F4723"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "13A77738A77F4723"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "29E423FB2DBB06C4"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "2C11874C698E2B22"
 				item: "pneumaticcraft:printed_circuit_board"
@@ -480,12 +528,20 @@
 				"33559B8D8362FD31"
 			]
 			id: "4A3807CCA0E3D5F7"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "5B4055CDBD50BC62"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5B4055CDBD50BC62"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2D0DDBF1769C1115"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "284228181B58588A"
 				item: "pneumaticcraft:advanced_pressure_tube"
@@ -515,12 +571,20 @@
 			dependencies: ["63D1B3549E8E82CD"]
 			description: ["A good &b&lEMC&r&r source !"]
 			id: "14EF3961D90940F5"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "76F758BCBC37AD82"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "76F758BCBC37AD82"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "44E2EB4F82C446FE"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			shape: "gear"
 			tasks: [{
 				id: "659E0117555E2BF8"

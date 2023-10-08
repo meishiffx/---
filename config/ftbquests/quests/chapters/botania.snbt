@@ -5,7 +5,7 @@
 	group: "23E157AF6F47953A"
 	icon: "botania:brewery"
 	id: "3B6B60B39DB83B7D"
-	order_index: 11
+	order_index: 9
 	quest_links: [ ]
 	quests: [
 		{
@@ -826,6 +826,40 @@
 			}]
 			x: -3.0d
 			y: -5.0d
+		}
+		{
+			dependencies: ["684BFC062DF18E5E"]
+			id: "61E23831234729D0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7008B7F7D6370F6D"
+				table_id: 7602419379325630161L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2FBC343D0084AD5A"
+				item: "botania:endoflame"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["684BFC062DF18E5E"]
+			id: "7764F8C3A0F69877"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "281B4E6E9310E5DF"
+				table_id: 7602419379325630161L
+				type: "random"
+			}]
+			tasks: [{
+				id: "7489D04ABD03EDC4"
+				item: "botania:hydroangeas"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.0d
 		}
 	]
 	title: "&l&7Botania"

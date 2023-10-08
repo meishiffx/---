@@ -882,3 +882,10 @@ craftingTable.addShaped('758678sf9', <item:minecraft:poppy>, [
  [<item:minecraft:air>, <item:minecraft:wheat_seeds>, <item:minecraft:air>],
  [<item:minecraft:air>, <item:minecraft:dirt>, <item:minecraft:air>]]);
 
+craftingTable.remove(<item:emc_interface:emc_interface>);
+craftingTable.remove(<item:projectexpansion:transmutation_interface>);
+
+craftingTable.addShaped('emcinterface2', <item:projectexpansion:transmutation_interface>, [
+ [<item:projecte:red_matter_block>, <item:minecraft:hopper>, <item:projecte:red_matter_block>],
+ [<item:minecraft:hopper>, <item:projecte:transmutation_table>, <item:minecraft:hopper>],
+ [<item:projecte:red_matter_block>, <item:minecraft:hopper>, <item:projecte:red_matter_block>]]);

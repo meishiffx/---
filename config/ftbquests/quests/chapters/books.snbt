@@ -2,10 +2,10 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "books"
-	group: "23E157AF6F47953A"
+	group: ""
 	icon: "akashictome:tome"
 	id: "37537AD82514A382"
-	order_index: 4
+	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{

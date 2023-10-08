@@ -23,12 +23,20 @@
 		{
 			dependencies: ["5EDC59A1A99AFC6C"]
 			id: "5059F7880B99868E"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "07F93385CF8C2E02"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "07F93385CF8C2E02"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "545E5B7AFD6810EF"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "2194709F330DD4B6"
 				item: "industrialforegoing:machine_frame_pity"
@@ -40,12 +48,20 @@
 		{
 			dependencies: ["16D3977F66263270"]
 			id: "576EB929906FDCB4"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "7FB13EDFA5C04735"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7FB13EDFA5C04735"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3620081944BEC204"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "3FF83A76E91FE140"
 				item: "industrialforegoing:machine_frame_simple"
@@ -61,12 +77,20 @@
 			]
 			hide_dependency_lines: true
 			id: "4493D3D4876EED36"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "59E536422300D468"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "59E536422300D468"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "08D9B9D0EEEF297B"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "7E226EA88380EAD3"
 				item: "industrialforegoing:machine_frame_advanced"
@@ -78,12 +102,20 @@
 		{
 			dependencies: ["66B1A74DA93B9E45"]
 			id: "1CCFA319E5A166DC"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "75AD17BE5DC5C7A4"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "75AD17BE5DC5C7A4"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7D65EF3C21545929"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			shape: "gear"
 			tasks: [{
 				id: "58DA213317410ED5"
@@ -130,12 +162,20 @@
 		{
 			dependencies: ["52DEF375B117FA2A"]
 			id: "0339B2A4BCF3BCD0"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "679CAE35D64DA45C"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "679CAE35D64DA45C"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6A4D5F485DB0C129"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "7D0BC2B5BBCBDB2D"
 				item: "industrialforegoing:plastic"
@@ -550,12 +590,20 @@
 			dependencies: ["1A8491EC77DE9590"]
 			description: ["A good &b&lEMC&r&r source !"]
 			id: "2A471F8E2082FF1F"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "48DAEE4D46E19AE5"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "48DAEE4D46E19AE5"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "73EB86452475A1D9"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			shape: "gear"
 			tasks: [{
 				id: "10D7834EE0ABDE9A"

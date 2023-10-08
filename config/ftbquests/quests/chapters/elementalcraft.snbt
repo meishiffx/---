@@ -40,12 +40,20 @@
 		{
 			dependencies: ["0A9CA9EA40B405A1"]
 			id: "28F52171A216C39F"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "75DE6B083D6C9E50"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "75DE6B083D6C9E50"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "366D6A74D6DC6706"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "1844BE1520BC0E4B"
 				item: "elementalcraft:contained_crystal"
@@ -102,25 +110,8 @@
 				item: "elementalcraft:extractor"
 				type: "item"
 			}]
-			x: 1.0d
-			y: -2.5d
-		}
-		{
-			dependencies: ["28F52171A216C39F"]
-			id: "7E104B2D8E15399E"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "329595664489925F"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
-			tasks: [{
-				id: "6A90852D38735581"
-				item: "elementalcraft:infuser"
-				type: "item"
-			}]
 			x: -1.0d
-			y: -2.5d
+			y: -1.5d
 		}
 		{
 			dependencies: ["1EDEEF40D973A262"]
@@ -178,12 +169,20 @@
 		{
 			dependencies: ["2787AE0BA2EF5A01"]
 			id: "358673586D105E76"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "25CFF70B60D419E0"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "25CFF70B60D419E0"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0487B8D3BD80BF21"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "3E2EF1FCB95F5B2E"
 				item: "elementalcraft:swift_alloy_ingot"
@@ -339,12 +338,20 @@
 		{
 			dependencies: ["1A2D3E4AD1E716A7"]
 			id: "211A28C34F66514B"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "160B345A0F933B98"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "160B345A0F933B98"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "778D9B9D2F19E64E"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			shape: "gear"
 			tasks: [{
 				id: "53C310C234E481FC"
@@ -578,12 +585,20 @@
 			dependencies: ["211A28C34F66514B"]
 			description: ["A good &b&lEMC&r&r source !"]
 			id: "5B9544E94F979FEB"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "247B2C9E58B20B13"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "247B2C9E58B20B13"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3ECEED14E24D65C3"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			shape: "gear"
 			tasks: [{
 				id: "4AA8DCA18AA7EAB3"

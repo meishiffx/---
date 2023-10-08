@@ -37,12 +37,20 @@
 			]
 			hide_dependency_lines: true
 			id: "314E9A4671621326"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "49FDC0BCCB4D1A00"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "49FDC0BCCB4D1A00"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3F65696046D3C217"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				dimension: "theabyss:the_abyss"
 				id: "5CBE15AFAB09BA62"
@@ -54,12 +62,20 @@
 		{
 			dependencies: ["314E9A4671621326"]
 			id: "27C384B85724C928"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "26C3051430B413EA"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "26C3051430B413EA"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "74431D8BBEEFC497"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				dimension: "theabyss:frost_world"
 				id: "020A7CE6E551388B"
@@ -140,12 +156,20 @@
 			dependencies: ["6A5BBCAD1ACAB171"]
 			id: "79131DA8D24FADEC"
 			optional: true
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "25CCDD3A6A24BAEA"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "25CCDD3A6A24BAEA"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "578425BE8E4B52E1"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			shape: "square"
 			tasks: [{
 				id: "4236E6582D3D21D7"
@@ -290,12 +314,20 @@
 			]
 			hide_dependency_lines: true
 			id: "4C65DADEE2A6C608"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "40EB44EBD5387BEA"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "40EB44EBD5387BEA"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7331CAD49CA9ABA2"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "375273DC733261B1"
 				item: {
@@ -317,12 +349,20 @@
 			]
 			hide_dependency_lines: true
 			id: "74CBA2A7DD8EE0D8"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "0F598624CDAAE8FC"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0F598624CDAAE8FC"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "65D87DA5FAF75523"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				count: 10L
 				id: "025C2298C87888B6"

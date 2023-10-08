@@ -26,12 +26,20 @@
 				"68F8C51026F43921"
 			]
 			id: "5AD8B8E60A43DE51"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "4E620B7259315789"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4E620B7259315789"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3985EF3BF9AA2E2C"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "43D9FFEC429FFEDF"
 				item: "ars_nouveau:source_gem"
@@ -43,12 +51,20 @@
 		{
 			dependencies: ["5AD8B8E60A43DE51"]
 			id: "223E562C1EAEAA97"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "491C7492875E9FFD"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "491C7492875E9FFD"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3FFBF02ACE6C1878"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			shape: "gear"
 			tasks: [
 				{
@@ -362,12 +378,20 @@
 				"See @pedestal"
 			]
 			id: "78A1C0DF836B6382"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "24053A8F16499861"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "24053A8F16499861"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "338AA014C24963A7"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "158E7D49DAF8674A"
 				item: "pedestals:upgrade_pedestal_base"

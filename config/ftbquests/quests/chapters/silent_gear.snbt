@@ -27,12 +27,20 @@
 		{
 			dependencies: ["5355FC2272C0C1B3"]
 			id: "2C0F2C51A3B798DD"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "10D1944E26E8FE93"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "10D1944E26E8FE93"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4EFC4519586FDED6"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "07B328ACC6EF55DF"
 				item: "silentgear:material_grader"
@@ -44,12 +52,20 @@
 		{
 			dependencies: ["5355FC2272C0C1B3"]
 			id: "749DA796D280C8BC"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "4F56A09C6103DE02"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4F56A09C6103DE02"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "16C192F431D878C3"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "0245E7A4526A260A"
 				item: "silentgear:starlight_charger"
@@ -61,12 +77,20 @@
 		{
 			dependencies: ["7554EAFA8CF604AF"]
 			id: "5355FC2272C0C1B3"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "52F61AB2AE80458C"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "52F61AB2AE80458C"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4D37CB2ECA128514"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "77E92F2068504771"
 				item: "silentgear:metal_alloyer"
@@ -78,12 +102,20 @@
 		{
 			dependencies: ["5355FC2272C0C1B3"]
 			id: "61AB9FB86192E86D"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "1CADAE922D53FEED"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1CADAE922D53FEED"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "42E685F737288D08"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "6B69960F99AE2846"
 				item: "silentgear:metal_press"
@@ -169,12 +201,20 @@
 				"710BE9B939B9C084"
 			]
 			id: "7470F0E80F52366E"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "60B11644390617F1"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "60B11644390617F1"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5A2BE7C6EBEDE99E"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "106472506C71DE05"
 				item: "silentgear:glittery_dust"
@@ -223,12 +263,20 @@
 				"6A5EB8B1F090E3E0"
 			]
 			id: "0BED7ABDFE255B15"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "3EA61EC8EA472AC2"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3EA61EC8EA472AC2"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "198F66236EC3DE1C"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "68A253C30B9B1B19"
 				item: "silentgear:starmetal_dust"

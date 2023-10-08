@@ -2,7 +2,7 @@
 #Range: > 0
 HoldTime = 80
 #Archives previous screenshots to the archive folder
-ArchiveScreenshots = true
+ArchiveScreenshots = false
 #Fade duration
 #Range: > 0
 FadeTime = 20

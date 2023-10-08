@@ -71,12 +71,20 @@
 				"07FB946F2EAE83D7"
 			]
 			id: "1599677E13FFCEA3"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "67AAFEF6F32BC307"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "67AAFEF6F32BC307"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4731DC8370E8E8BB"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "28629D21E9FE6427"
 				item: "powah:steel_energized"
@@ -91,12 +99,20 @@
 				"07FB946F2EAE83D7"
 			]
 			id: "1899B1E0A6B476F0"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "509486C6544DB90E"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "509486C6544DB90E"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "404019B443A76FAD"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "73131CF415C956F6"
 				item: "powah:crystal_blazing"
@@ -111,12 +127,20 @@
 				"07FB946F2EAE83D7"
 			]
 			id: "369A656639F8A8F9"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "5FF0177E6B1A2193"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5FF0177E6B1A2193"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7815EF07010B1D9F"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "2C2CEAEC123E4A34"
 				item: "powah:crystal_niotic"
@@ -131,12 +155,20 @@
 				"07FB946F2EAE83D7"
 			]
 			id: "38B7694123FBBFE9"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "05664327B1A322E2"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "05664327B1A322E2"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "53696B68394E40B1"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "795B9AC64E6C03B0"
 				item: "powah:crystal_spirited"
@@ -152,12 +184,20 @@
 			]
 			description: ["A good &b&lEMC&r&r source !"]
 			id: "362FBBA4071D8E65"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "11D8DCF8A0D6CD0B"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "11D8DCF8A0D6CD0B"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "19C047AB3A0AE7DE"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			shape: "gear"
 			tasks: [{
 				id: "39266EC2DCFA35E4"

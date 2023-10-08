@@ -5,7 +5,7 @@
 	group: "23E157AF6F47953A"
 	icon: "projectexpansion:final_emc_link"
 	id: "405E57555F359216"
-	order_index: 12
+	order_index: 10
 	quest_links: [ ]
 	quests: [
 		{
@@ -55,7 +55,7 @@
 			}]
 			tasks: [{
 				id: "7FF137302AC23755"
-				item: "emc_interface:emc_interface"
+				item: "projectexpansion:transmutation_interface"
 				type: "item"
 			}]
 			x: 0.0d

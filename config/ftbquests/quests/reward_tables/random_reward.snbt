@@ -160,24 +160,6 @@
 		{ item: "pamhc2foodextended:meringuebombeitem" }
 		{ item: "pamhc2foodextended:mintchocolatechipicecreamitem" }
 		{ item: "pamhc2foodextended:musubiitem" }
-		{
-			item: {
-				Count: 1b
-				id: "vinery:jo_special_mixture"
-				tag: {
-					Year: 0
-				}
-			}
-		}
-		{
-			item: {
-				Count: 1b
-				id: "vinery:cherry_wine"
-				tag: {
-					Year: 0
-				}
-			}
-		}
 		{ item: "pamhc2crops:roastedmushroomitem" }
 		{ item: "pamhc2crops:turnipitem" }
 		{ item: "pamhc2crops:broccoliitem" }
@@ -207,6 +189,7 @@
 			weight: 140.0f
 			xp: 25
 		}
+		{ count: 10, item: "projecte:aeternalis_fuel" }
 	]
 	title: "Random Reward"
 }

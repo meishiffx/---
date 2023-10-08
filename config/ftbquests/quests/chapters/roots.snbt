@@ -5,7 +5,19 @@
 	group: "23E157AF6F47953A"
 	icon: "rootsclassic:altar"
 	id: "5FDFF8E09D8E6EEB"
-	order_index: 9
+	images: [{
+		click: ""
+		corner: false
+		dev: false
+		height: 2.0d
+		hover: [ ]
+		image: "kubejs:textures/block/screenshot_4.png"
+		rotation: 0.0d
+		width: 10.374613003095975d
+		x: 0.0714285714285694d
+		y: -6.437306501547987d
+	}]
+	order_index: 7
 	quest_links: [ ]
 	quests: [
 		{
@@ -38,6 +50,7 @@
 		}
 		{
 			dependencies: ["5F2BABE8F029E97D"]
+			description: ["To launch a craft, or get info about actual craft, just sneak+rightClick"]
 			id: "26B51E6C23C6C347"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -54,6 +67,7 @@
 			y: -2.5d
 		}
 		{
+			description: ["You will have to fire them with good barks."]
 			id: "608B6C9322705991"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -62,6 +76,7 @@
 				type: "random"
 			}]
 			tasks: [{
+				count: 4L
 				id: "53ED482EEB8587C8"
 				item: "rootsclassic:brazier"
 				type: "item"

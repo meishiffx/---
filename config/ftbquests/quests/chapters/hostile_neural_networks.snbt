@@ -60,12 +60,20 @@
 		{
 			dependencies: ["49B0073A8883CA0F"]
 			id: "599A4A4BD0A028E6"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "1C0B51947B0C9051"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1C0B51947B0C9051"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "51C6BE746DFD8E7E"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "750D3A57FA96A92C"
 				item: "hostilenetworks:sim_chamber"
@@ -77,12 +85,20 @@
 		{
 			dependencies: ["49B0073A8883CA0F"]
 			id: "7BF5378F19AED4AB"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "5E2E83755F80F775"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5E2E83755F80F775"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0C21236BEC16C57A"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "60685385A99333C1"
 				item: "hostilenetworks:loot_fabricator"
@@ -111,12 +127,20 @@
 		{
 			dependencies: ["599A4A4BD0A028E6"]
 			id: "5A5481CCF87BBAE9"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "50D4AC21524C73A9"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "50D4AC21524C73A9"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "282A328562BAB7ED"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "206D97C923FB319D"
 				item: "hostilenetworks:nether_prediction"
@@ -128,12 +152,20 @@
 		{
 			dependencies: ["599A4A4BD0A028E6"]
 			id: "28C0E3324173A544"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "3030BED902FB3441"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3030BED902FB3441"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "621B2A73F7DE9268"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "0831BD19544D9001"
 				item: "hostilenetworks:overworld_prediction"
@@ -145,12 +177,20 @@
 		{
 			dependencies: ["599A4A4BD0A028E6"]
 			id: "7952120541F737BA"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "6B128D24DF13DA94"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6B128D24DF13DA94"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3B88492AB87E9FFE"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "04C15A056D30CAE1"
 				item: "hostilenetworks:end_prediction"
@@ -163,12 +203,20 @@
 			dependencies: ["599A4A4BD0A028E6"]
 			description: ["A good &b&lEMC&r&r source !"]
 			id: "0940E780895C9115"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "0DAE66A2E25C3864"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0DAE66A2E25C3864"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6935241B0098ADDE"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "2CAA4EAE6AFBF06B"
 				item: {
@@ -189,12 +237,20 @@
 			dependencies: ["599A4A4BD0A028E6"]
 			description: ["A good &b&lEMC&r&r source !"]
 			id: "6F6897B7F3C3F15E"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "15611045A90F6A4A"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "15611045A90F6A4A"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1306B3399F2F419F"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "4709922E7B197FAD"
 				item: {

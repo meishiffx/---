@@ -1,0 +1,46 @@
+{
+	icon: "ironchest:diamond_chest"
+	id: "565CEBDEEDA1B3E6"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{ count: 12, item: "refinedstorage:basic_processor" }
+		{ count: 16, item: "refinedstorage:improved_processor" }
+		{ count: 16, item: "refinedstorage:advanced_processor" }
+		{ count: 16, item: "extrastorage:neural_processor" }
+		{ count: 10, item: "projecte:mobius_fuel" }
+		{ count: 10, item: "projecte:aeternalis_fuel" }
+		{ count: 10, item: "projectexpansion:magenta_fuel" }
+		{ count: 10, item: "projectexpansion:pink_fuel" }
+		{ count: 5, item: "projectexpansion:purple_fuel" }
+		{ count: 3, item: "projectexpansion:violet_fuel" }
+		{ item: "projectexpansion:blue_fuel" }
+		{
+			type: "xp"
+			weight: 50.0f
+			xp: 200
+		}
+		{ count: 16, item: "mekanism:basic_control_circuit" }
+		{ count: 8, item: "mekanism:advanced_control_circuit" }
+		{ count: 4, item: "mekanism:elite_control_circuit" }
+		{ count: 2, item: "mekanism:ultimate_control_circuit" }
+		{ count: 32, item: "mekanism:alloy_infused" }
+		{ count: 16, item: "mekanism:alloy_reinforced" }
+		{ count: 8, item: "mekanism:alloy_atomic" }
+		{ count: 32, item: "create:andesite_casing" }
+		{ count: 16, item: "create:brass_casing" }
+		{ count: 4, item: "elementalcraft:inert_crystal" }
+		{ count: 8, item: "fluxnetworks:flux_core" }
+		{ item: "quark:paper_lantern_sakura" }
+		{ item: "createdeco:white_decal" }
+		{ item: "createdeco:orange_decal" }
+		{ item: "createdeco:magenta_decal" }
+		{ item: "createdeco:yellow_decal" }
+		{ item: "createdeco:lime_decal" }
+		{ item: "createdeco:green_decal" }
+		{ item: "createdeco:purple_decal" }
+		{ item: "createdeco:black_decal" }
+		{ item: "minecraft:wither_skeleton_skull" }
+	]
+	title: "Random Reward 2"
+}

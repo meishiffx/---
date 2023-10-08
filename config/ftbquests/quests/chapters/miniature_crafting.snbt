@@ -23,12 +23,20 @@
 		{
 			dependencies: ["362FBBA4071D8E65"]
 			id: "16736A22222A569E"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "03C483066962249D"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "03C483066962249D"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "268DAC514A66705E"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			shape: "gear"
 			tasks: [{
 				count: 4L
@@ -51,12 +59,20 @@
 				"&lRescan proxies&r are used to trigger a forced rescan on a field. Miniaturization fields sometimes fail to pick up on changes from automation-style block placers, so you can use these proxies to trigger a scan on a field. They're especially helpful on a hands-free timer setup, for easy automation of highly-used resources!"
 			]
 			id: "4F5D95265C3F2EE6"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "20FCA99456A6839F"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "20FCA99456A6839F"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "32BEF42FF761C25C"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			subtitle: "&lProxies"
 			tasks: [
 				{
@@ -82,12 +98,20 @@
 				"Useful to make massive energy storage."
 			]
 			id: "7FB8773BA4D559AE"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "4176D4F3695F238A"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4176D4F3695F238A"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "45F4EA1F9490340A"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "6A64A55CDAD6608E"
 				item: "mekanism:thermal_evaporation_block"
@@ -100,12 +124,20 @@
 		{
 			dependencies: ["16736A22222A569E"]
 			id: "43E0D7B14E9857F5"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "2D1D91001DB81029"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2D1D91001DB81029"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6F5572F787DE99B5"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "4DA00E381D641E29"
 				item: "mekanismgenerators:turbine_casing"
@@ -168,12 +200,20 @@
 		{
 			dependencies: ["3CD8AA72AAE9DA96"]
 			id: "471D25F073D8A1C1"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "5E265ED201CF5C83"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5E265ED201CF5C83"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "730215BAD6B4A521"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "701E1A826FDA883C"
 				item: "mekanism:ultimate_induction_cell"
@@ -236,12 +276,20 @@
 		{
 			dependencies: ["240F95553BD09E5B"]
 			id: "46AD5C90ED863EA0"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "5FB18AC3750DBE6D"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5FB18AC3750DBE6D"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6C1C81B3D591C8DE"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "627FDC3EDE57574F"
 				item: "mekanism:ultimate_induction_provider"
@@ -255,12 +303,20 @@
 			hide_dependency_lines: true
 			id: "38918C99008C9F60"
 			optional: true
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "75CFE797A68AA088"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "75CFE797A68AA088"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1F5A582DA4C3DB14"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			shape: "square"
 			tasks: [{
 				id: "1BB3913A9FE384C0"
@@ -275,12 +331,20 @@
 			hide_dependency_lines: true
 			id: "49A4B1C0CB8BBFB1"
 			optional: true
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "0FF149C3BFAB9662"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0FF149C3BFAB9662"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "32C4810A12133608"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			shape: "square"
 			tasks: [{
 				id: "2C34FAF5CA0F9B23"
@@ -295,12 +359,20 @@
 			hide_dependency_lines: true
 			id: "7D49065DDFB99E12"
 			optional: true
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "7018380542EC1BD4"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7018380542EC1BD4"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "583C21272D7CE439"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			shape: "square"
 			tasks: [{
 				id: "2E7FA6023EAEEF3A"
@@ -315,12 +387,20 @@
 			hide_dependency_lines: true
 			id: "56522B547119611C"
 			optional: true
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "58106A74AC81C732"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "58106A74AC81C732"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1401D48BA8FAFF15"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			shape: "square"
 			tasks: [{
 				id: "17A8E7687F196261"

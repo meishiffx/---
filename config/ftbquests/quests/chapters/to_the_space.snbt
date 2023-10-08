@@ -23,12 +23,20 @@
 		{
 			dependencies: ["536931C9D3863304"]
 			id: "4FDE045A866DF3DB"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "59104432B1763D85"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "59104432B1763D85"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "70957721A745017B"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "2BF5F7FD4DFB0D32"
 				item: "beyond_earth:nasa_workbench"
@@ -40,12 +48,20 @@
 		{
 			dependencies: ["4FDE045A866DF3DB"]
 			id: "659EF981F06F1445"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "771234C6A26FA347"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "771234C6A26FA347"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "69CA87702B15F409"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "354696AF39E9D451"
 				item: {
@@ -61,12 +77,20 @@
 		{
 			dependencies: ["3D047859E4D2E5AF"]
 			id: "7B46AF9FF9E16AE4"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "40613E28ABB77741"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "40613E28ABB77741"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "678C38B7F4AF8E50"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "7B73B18CE09C83BC"
 				item: {
@@ -82,12 +106,20 @@
 		{
 			dependencies: ["21F15C9049EE198D"]
 			id: "7CB6B90711263C90"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "1AB1D2933F9DC06C"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1AB1D2933F9DC06C"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "66FE18B0FDA2B28E"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "310C850B8CEE2756"
 				item: {
@@ -103,12 +135,20 @@
 		{
 			dependencies: ["6DAE2863D9D0EA87"]
 			id: "3EFA312C5888B335"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "660486C891DED6B3"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "660486C891DED6B3"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "074AE3FC7BD6250A"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "0F02D847B5A05AA0"
 				item: {
@@ -124,12 +164,20 @@
 		{
 			dependencies: ["659EF981F06F1445"]
 			id: "3D047859E4D2E5AF"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "3BB39AD231DE428E"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3BB39AD231DE428E"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "250DA15496F7BFF9"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "29A2B6C7ACDE371A"
 				item: "beyond_earth:desh_ingot"
@@ -141,12 +189,20 @@
 		{
 			dependencies: ["7B46AF9FF9E16AE4"]
 			id: "21F15C9049EE198D"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "12F7204529D27704"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "12F7204529D27704"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "206B280B60C19185"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "774E3105892A104F"
 				item: "beyond_earth:ostrum_ingot"
@@ -158,12 +214,20 @@
 		{
 			dependencies: ["7CB6B90711263C90"]
 			id: "6DAE2863D9D0EA87"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "1493445A3D1A9D6D"
-				table_id: 7602419379325630161L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1493445A3D1A9D6D"
+					table_id: 7602419379325630161L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "56EF892C5FFD5395"
+					table_id: 6223108127821247462L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "0E85A9675124C5AC"
 				item: "beyond_earth:calorite_ingot"

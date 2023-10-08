@@ -237,3 +237,20 @@
 
 <recipetype:chicken_roost:roost_v7_output>.removeByName("chicken_roost:roost/tier7/roostv7_blutonium");
 <recipetype:chicken_roost:roost_v7_output>.removeByName("chicken_roost:roost/tier7/roostv7_netherstar");
+
+<recipetype:chicken_roost:roost_v7_output>.removeByName("chicken_roost:roost/tier7/roostv7_netherite");
+<recipetype:chicken_roost:roost_v7_output>.addJsonRecipe("roostnetherite2", {
+    "type": "chicken_roost:roost_v7_output",
+    "ingredients": [
+        {
+            "item": "chicken_roost:chicken_food_tier_7"
+        },
+        {
+            "item": "chicken_roost:e_chicken_netherite"
+        }
+    ],
+    "output": {
+        "item": "minecraft:netherite_ingot"
+    }
+  }
+);

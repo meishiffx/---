@@ -5,7 +5,7 @@
 	group: "23E157AF6F47953A"
 	icon: "create:large_water_wheel"
 	id: "7C734BBF806BA57C"
-	order_index: 8
+	order_index: 6
 	quest_links: [ ]
 	quests: [
 		{
@@ -766,6 +766,24 @@
 			}]
 			x: -4.0d
 			y: -2.5d
+		}
+		{
+			dependencies: ["28475A47A6664C58"]
+			id: "09A4CB7E0F2FE0B2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "01F3CC8DB64348B5"
+				table_id: 7602419379325630161L
+				type: "random"
+			}]
+			shape: "square"
+			tasks: [{
+				id: "1F7A0AB89DB9E41D"
+				item: "create:goggles"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -8.5d
 		}
 	]
 	title: "&l&7Create"

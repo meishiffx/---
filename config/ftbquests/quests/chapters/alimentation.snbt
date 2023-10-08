@@ -5,7 +5,7 @@
 	group: "23E157AF6F47953A"
 	icon: "solcarrot:food_book"
 	id: "640A99C3D5E7B428"
-	order_index: 7
+	order_index: 5
 	quest_links: [ ]
 	quests: [
 		{
